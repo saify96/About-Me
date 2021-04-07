@@ -197,6 +197,10 @@ function Q7(){
 }
 Q1();
 Q2();
+Q3();
+Q4();
+Q5();
+
 
 alert ('your score is ' + score + ' out of 7');
 
