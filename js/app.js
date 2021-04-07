@@ -196,7 +196,7 @@ function Q7(){
   alert ('My favourite brands are : ' + carBrands + cars [(cars.length-1)] );
 }
 Q1();
-
+Q2();
 
 alert ('your score is ' + score + ' out of 7');
 
