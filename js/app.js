@@ -200,7 +200,8 @@ Q2();
 Q3();
 Q4();
 Q5();
-
+Q6();
+Q7();
 
 alert ('your score is ' + score + ' out of 7');
 
